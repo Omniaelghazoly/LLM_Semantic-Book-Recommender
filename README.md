@@ -25,7 +25,7 @@ It allows users to input a book description and receive recommendations for simi
 
 PyTorch (for GPU acceleration if available)
 
-## ▶️ Usage
+## Usage
 
 Run the Gradio dashboard:
 
