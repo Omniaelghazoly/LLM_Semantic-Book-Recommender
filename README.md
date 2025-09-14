@@ -3,7 +3,7 @@
 ## 🖥️ Dashboard Preview
 Here’s a preview of the interactive Gradio dashboard:
 
-(dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 This project develops a semantic book recommender system leveraging the power of Large Language Models (LLMs).
 It allows users to input a book description and receive recommendations for similar books, classified by categories and emotional tones.
@@ -17,12 +17,11 @@ It allows users to input a book description and receive recommendations for simi
 - **Interactive Dashboard with Gradio**: A creative and user-friendly web interface. 
 
 ## Tech Stack
-
-Python
-LangChain (for LLM orchestration)
-Hugging Face Transformers (embeddings, classification, sentiment analysis)
-ChromaDB (vector database)
-Gradio (web interface)
+- Python
+- LangChain (for LLM orchestration)
+- Hugging Face Transformers (embeddings, classification, sentiment analysis)
+- ChromaDB (vector database)
+- Gradio (web interface)
 
 PyTorch (for GPU acceleration if available)
 
