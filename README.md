@@ -3,7 +3,7 @@
 ## 🖥️ Dashboard Preview
 Here’s a preview of the interactive Gradio dashboard:
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dasboard.png)
 
 This project develops a semantic book recommender system leveraging the power of Large Language Models (LLMs).
 It allows users to input a book description and receive recommendations for similar books, classified by categories and emotional tones.
